@@ -66,17 +66,20 @@ Stabilize the manipulator around the upright configuration.
 ---
 
 ## Project Structure
+
+```text
 Adaptive_Neural_Control_PPO/
 │
-├── env/ → MuJoCo robot models
-├── controllers/ → Classical PD controller implementation
-├── training/ → PPO training scripts
-├── experiments/ → Evaluation experiments
-├── notebooks/ → Research notebooks
-├── models/ → Saved trained policies
-├── plots/ → Generated figures
-├── results/ → Logged performance metrics
-└── paper/ → Draft manuscript
+├── env/            → MuJoCo robot models
+├── controllers/    → Classical PD controller implementation
+├── training/       → PPO training scripts
+├── experiments/    → Evaluation experiments
+├── notebooks/      → Research notebooks
+├── models/         → Saved trained policies
+├── plots/          → Generated figures
+├── results/        → Logged performance metrics
+└── paper/          → Draft manuscript
+```
 
 ---
 
