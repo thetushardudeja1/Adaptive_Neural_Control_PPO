@@ -108,7 +108,7 @@ Adaptive_Neural_Control_PPO/
 
 - [x] 2-DOF robotic manipulator model
 - [x] PD baseline stabilization
-- [ ] PPO stabilization training
+- [x] PPO stabilization training
 - [ ] Robustness evaluation
 - [ ] Comparative analysis
 - [ ] Manuscript preparation
